@@ -51,6 +51,7 @@
 | Coin Desk          | ![Coindesk](https://user-images.githubusercontent.com/102221198/229078030-e4e1ff44-62d9-4ae7-a903-1853865648ab.png)                   | [coindesk.com](https://www.coindesk.com/)                                | [Twitter](https://twitter.com/CoinDesk)     | Latest Cryptocurrency News, Technical, Fundamentals, and on-chain Analysis. |
 | Arkham          | ![Arkham](https://user-images.githubusercontent.com/102221198/229077906-dd81dc6e-22a3-4aab-95cf-ab05097866ac.png)                   | [arkhamintelligence.com](https://www.arkhamintelligence.com/)                                | [Twitter](https://twitter.com/arkhamintel)     | Total Crypto Intelligence. |
 | BubbleMaps          | ![Bubble Maps](https://user-images.githubusercontent.com/102221198/236861753-25f9124f-a54a-44dc-9229-8c9fb49a78e2.png)                   | [bubblemaps.io](https://bubblemaps.io/)                                | [Twitter](https://twitter.com/bubblemaps)     | Innovative Visuals for Blockchain Data. |
+| Coinfeeds          | ![coinfeeds](https://github.com/AsharibAli/crypto-research-tools/assets/102221198/7b5f3043-9636-4c93-9680-ba1ac3fa9512)                   | [coinfeeds.io](https://coinfeeds.io/)                                | [Twitter](https://twitter.com/coinfeeds_ai)     | Coinfeeds is a crypto AI tool for traders and investors, a platform for digital assets that embraces open data. |
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
 ## For Contributions:
