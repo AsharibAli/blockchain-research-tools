@@ -8,7 +8,7 @@
   
 <h1 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> this repository</h1>
 
-<!-- === ⭐ RESEARCH TOOLS LIST ⭐ === -->
+<!-- === ⭐ COMPLETE RESEARCH TOOLS LIST ⭐ === -->
 
 | Platform Name         | Preview                                                                                                                               | Live Website URL                                                      | Official Twitter                             | Short Description                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
