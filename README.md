@@ -56,7 +56,7 @@
 
 ## For Contributions:
 
-If you have any research tools that you want to see added in this list? just contact me here: [asharib.xyz](https://www.asharib.xyz/#contact), with the details of it.
+If you have any research tools that you want to see added in this list? just contact me here: [asharib.xyz](https://www.asharib.xyz/#contact), with the details of it!
 <br>
 
 ## For Appreciation:
