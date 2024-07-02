@@ -57,7 +57,7 @@
 
 ## Contribution Guidelines
 
-If you want to add your product, service, or research tool related to crypto and blockchain, please open a PR and simply follow the current style to add your project details, "If you encounter any issues with adding, feel free to contact me here: [asharib.xyz](https://www.asharib.xyz/)."
+If you want to add your product, service, or research tool related to crypto and blockchain, please open a PR and simply follow the current style to add your project details, If you encounter any issues with adding, feel free to contact me here: [asharib.xyz](https://www.asharib.xyz/).
 
 **Current Style Example:**
 
