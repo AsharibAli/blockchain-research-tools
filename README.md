@@ -55,14 +55,17 @@
 | CryptoMediaCap          | ![cryptomediacap](https://github.com/AsharibAli/blockchain-research-tools/assets/102221198/3de70c9e-7d8d-4a4a-adfb-114488beca2f)                   | [cryptomediacap.com](https://coinmediacap.com/)                               | [LinkedIn](https://www.linkedin.com/in/michaeldieckmann/)     | CryptoMediaCap aggregate social media data and rate coin news with AI for rumors, innovation etc. |
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
+## Contribution Guidelines
 
-## For Contributions:
+If you want to add your product, service, or research tool related to crypto and blockchain, please open a PR and simply follow the current style to add your project details, "If you encounter any issues with adding, feel free to contact me here: [asharib.xyz](https://www.asharib.xyz/)."
 
-If you have any research tools that you want to see added in this list? just contact me here: [asharib.xyz](https://www.asharib.xyz/#contact), with the details of it!
+**Current Style Example:**
+
+| Project Name       | ![logo](https://link-to-logo.com/logo.png) | [project-url.com](https://project-url.com) | [Twitter](https://twitter.com/project_twitter) | Short description of the project. |
 <br>
 
 ## For Appreciation:
 
-As you research and grow your crypto portfolio I hope you will done through it, If you like this project and want to give back, Just follow me on twitter. <br>
+I hope you will dive deep into it as you research and expand your crypto portfolio. If you appreciate this project and want to give back, follow me on X/Twitter. <br>
 
-<a href="https://twitter.com/0xAsharib?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @0xAsharib</a> 😇
+<a href="https://x.com/0xAsharib?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @0xAsharib</a> 😇
