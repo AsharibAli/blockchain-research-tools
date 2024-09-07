@@ -10,7 +10,7 @@
 
 <!-- === ⭐ COMPLETE RESEARCH TOOLS LIST ⭐ === -->
 
-| Platform Name         | Preview                                                                                                                               | Live Website URL                                                      | Official Twitter                             | Short Description                                            |
+| Platform Name         | Preview                                                                                                                               | Live Website URL                                                      | Social                             | Short Description                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
 | CoinMarketCap         | ![CoinMarketcap](https://user-images.githubusercontent.com/102221198/228283708-6b4bf70c-f1ea-4b40-8da4-55850b8b4cd8.png)              | [coinmarketcap.com](https://coinmarketcap.com/)                       | [Twitter](https://twitter.com/CoinMarketCap) | CoinMarketCap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space.    |
 | CoinGecko             | ![CoinGecko](https://user-images.githubusercontent.com/102221198/228284028-b02c3ce5-ca4b-4e25-8d9b-dd6702f7af79.png)                  | [coingecko.com](https://coingecko.com)                                | [Twitter](https://twitter.com/coingecko)     | View top cryptocurrency prices live, crypto charts, market cap, and trading volume. Discover today's new and trending coins, and analyze it.    |
@@ -53,6 +53,8 @@
 | BubbleMaps          | ![Bubble Maps](https://user-images.githubusercontent.com/102221198/236861753-25f9124f-a54a-44dc-9229-8c9fb49a78e2.png)                   | [bubblemaps.io](https://bubblemaps.io/)                                | [Twitter](https://twitter.com/bubblemaps)     | Innovative Visuals for Blockchain Data. |
 | Coinfeeds          | ![coinfeeds](https://github.com/AsharibAli/crypto-research-tools/assets/102221198/7b5f3043-9636-4c93-9680-ba1ac3fa9512)                   | [coinfeeds.io](https://coinfeeds.io/)                                | [Twitter](https://twitter.com/coinfeeds_ai)     | Coinfeeds is a crypto AI tool for traders and investors, a platform for digital assets that embraces open data. |
 | CryptoMediaCap          | ![cryptomediacap](https://github.com/AsharibAli/blockchain-research-tools/assets/102221198/3de70c9e-7d8d-4a4a-adfb-114488beca2f)                   | [cryptomediacap.com](https://coinmediacap.com/)                               | [LinkedIn](https://www.linkedin.com/in/michaeldieckmann/)     | CryptoMediaCap aggregate social media data and rate coin news with AI for rumors, innovation etc. |
+| Momentum Radar          | ![Momentum Radar](https://github.com/user-attachments/assets/8ed83743-d342-451f-a734-a38a0d70fce1)                   | [momentumradar.com](https://momentumradar.com/)                               | [Contact](https://momentumradar.com/contact-us/)     | Tactical & Strategic Blueprint For Financial Markets |
+
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
 ## Contribution Guidelines
@@ -61,11 +63,11 @@ If you want to add your product, service, or research tool related to crypto and
 
 **Current Style Example:**
 
-| Project Name       | ![logo](https://link-to-logo.com/logo.png) | [project-url.com](https://project-url.com) | [Twitter](https://twitter.com/project_twitter) | Short description of the project. |
+| Project Name       | Feature image | [project-url.com](https://asharib.xyz/) | [Social Handle](https://x.com/0xAsharib) | Short description of the project. |
 <br>
 
 ## For Appreciation:
 
 I hope you will dive deep into it as you research and expand your crypto portfolio. If you appreciate this project and want to give back, follow me on X/Twitter. <br>
 
-<a href="https://x.com/0xAsharib?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @0xAsharib</a> 😇
+<a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/twitter/follow/0xAsharib?style=social" alt="twitter" /></a> 
