@@ -55,6 +55,7 @@
 | CryptoMediaCap          | ![cryptomediacap](https://github.com/AsharibAli/blockchain-research-tools/assets/102221198/3de70c9e-7d8d-4a4a-adfb-114488beca2f)                   | [cryptomediacap.com](https://coinmediacap.com/)                               | [LinkedIn](https://www.linkedin.com/in/michaeldieckmann/)     | CryptoMediaCap aggregate social media data and rate coin news with AI for rumors, innovation etc. |
 | Momentum Radar          | ![Momentum Radar](https://github.com/user-attachments/assets/8ed83743-d342-451f-a734-a38a0d70fce1)                   | [momentumradar.com](https://momentumradar.com/)                               | [Contact](https://momentumradar.com/contact-us/)     | Tactical & Strategic Blueprint For Financial Markets |
 | Holder.io          | ![Holder.io](https://github.com/user-attachments/assets/dfec5e5a-2795-4e01-a6fe-5d5dc857db19)                   | [holder.io](https://holder.io/)                               | [Twitter](https://x.com/Holder_io)     | A platform for tracking cryptocurrencies, tokens, and exchanges with analytical tools. |
+| Cryptonary          | ![Cryptonary](https://raw.githubusercontent.com/aamir-cryptonary/public-aamir/refs/heads/main/Cryptonary%20Images.jpg)                   | [cryptonary.com](https://cryptonary.com/)                               | [Instagram](https://www.instagram.com/cryptonary/)     | Cryptonary, a crypto research tool that helps everyday investors find winning crypto opportunities, started in 2017.
 
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
