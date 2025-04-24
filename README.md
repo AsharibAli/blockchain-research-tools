@@ -56,6 +56,7 @@
 | CryptoMediaCap          | ![cryptomediacap](https://github.com/AsharibAli/blockchain-research-tools/assets/102221198/3de70c9e-7d8d-4a4a-adfb-114488beca2f)                   | [cryptomediacap.com](https://coinmediacap.com/)                               | [LinkedIn](https://www.linkedin.com/in/michaeldieckmann/)     | CryptoMediaCap aggregate social media data and rate coin news with AI for rumors, innovation etc. |
 | Momentum Radar          | ![Momentum Radar](https://github.com/user-attachments/assets/8ed83743-d342-451f-a734-a38a0d70fce1)                   | [momentumradar.com](https://momentumradar.com/)                               | [Contact](https://momentumradar.com/contact-us/)     | Tactical & Strategic Blueprint For Financial Markets |
 | Holder.io          | ![Holder.io](https://github.com/user-attachments/assets/dfec5e5a-2795-4e01-a6fe-5d5dc857db19)                   | [holder.io](https://holder.io/)                               | [Twitter](https://x.com/Holder_io)     | A platform for tracking cryptocurrencies, tokens, and exchanges with analytical tools. |
+| Bitculator.com | ![bitculator.com](https://bitculator.com/media/do-not-delete/Preview-Dark.png) | [bitculator.com](https://bitculator.com/) | [Twitter](https://x.com/bitculator) | Bitculator is a modern & user-friendly crypto tool designed for both novice and experienced users, we offer live cryptocurrency data, easy-to-use tools, customizable alarms, detailed charts, and interactive lists |
 
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
@@ -68,8 +69,12 @@ If you want to add your product, service, or research tool related to crypto and
 | Project Name       | Feature image | [project-url.com](https://asharib.xyz/) | [Social Handle](https://x.com/0xAsharib) | Short description of the project. |
 <br>
 
+## Important Note
+The tools and resources listed here are for educational purposes only, designed to help you make informed decisions. Cryptocurrency investments are inherently risky, so only invest what you can afford to lose. Always do thorough research and consider consulting a financial advisor before making any investments.
+
 ## For Appreciation:
 
-I hope you will dive deep into it as you research and expand your crypto portfolio. If you appreciate this project and want to give back, follow me on X/Twitter. <br>
+I hope you will dive deep into it as you research. If you appreciate this project and want to give back, follow me on 
+<a href="https://x/0xAsharib" target="_blank">X (Twitter)</a>, and 
+<a href="https://www.linkedin.com/in/asharibali" target="_blank">LinkedIn</a>. <br>
 
-<a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/twitter/follow/0xAsharib?style=social" alt="twitter" /></a> 
