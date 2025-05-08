@@ -57,6 +57,7 @@
 | Momentum Radar          | ![Momentum Radar](https://github.com/user-attachments/assets/8ed83743-d342-451f-a734-a38a0d70fce1)                   | [momentumradar.com](https://momentumradar.com/)                               | [Contact](https://momentumradar.com/contact-us/)     | Tactical & Strategic Blueprint For Financial Markets |
 | Holder.io          | ![Holder.io](https://github.com/user-attachments/assets/dfec5e5a-2795-4e01-a6fe-5d5dc857db19)                   | [holder.io](https://holder.io/)                               | [Twitter](https://x.com/Holder_io)     | A platform for tracking cryptocurrencies, tokens, and exchanges with analytical tools. |
 | Bitculator.com | ![bitculator.com](https://bitculator.com/media/do-not-delete/Preview-Dark.png) | [bitculator.com](https://bitculator.com/) | [Twitter](https://x.com/bitculator) | Bitculator is a modern & user-friendly crypto tool designed for both novice and experienced users, we offer live cryptocurrency data, easy-to-use tools, customizable alarms, detailed charts, and interactive lists |
+| Okotoki |![Okotoki](https://github.com/user-attachments/assets/4b1365f4-b0dc-4007-b9e8-4fabb34c2d35) | [okotoki.com](https://www.okotoki.com/)    | [Twitter](https://x.com/okotoki) | Advanced crypto market analysis platform offering customizable dashboards with widgets like orderbook, trade feed, price ticker, watchist, and heatmap visualization.|
 
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
