@@ -57,6 +57,7 @@
 | Momentum Radar          | ![Momentum Radar](https://github.com/user-attachments/assets/8ed83743-d342-451f-a734-a38a0d70fce1)                   | [momentumradar.com](https://momentumradar.com/)                               | [Contact](https://momentumradar.com/contact-us/)     | Tactical & Strategic Blueprint For Financial Markets |
 | Holder.io          | ![Holder.io](https://github.com/user-attachments/assets/dfec5e5a-2795-4e01-a6fe-5d5dc857db19)                   | [holder.io](https://holder.io/)                               | [Twitter](https://x.com/Holder_io)     | A platform for tracking cryptocurrencies, tokens, and exchanges with analytical tools. |
 | Bitculator.com | ![bitculator.com](https://bitculator.com/media/do-not-delete/Preview-Dark.png) | [bitculator.com](https://bitculator.com/) | [Twitter](https://x.com/bitculator) | Bitculator is a modern & user-friendly crypto tool designed for both novice and experienced users, we offer live cryptocurrency data, easy-to-use tools, customizable alarms, detailed charts, and interactive lists |
+| PredScope          | ![PredScope](https://predscope.com/images/og-image.png)                   | [predscope.com](https://predscope.com/)                               | [Twitter](https://x.com/predscope)     | Free prediction market analytics platform tracking 1,000+ Polymarket events with live odds, market statistics, free JSON APIs, and 84 educational guides. |
 
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
