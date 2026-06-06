@@ -67,7 +67,7 @@ If you want to add your product, service, or research tool related to crypto and
 **Current Style Example:**
 
 | Project Name       | Feature image | [project-url.com](https://asharib.xyz/) | [Social Handle](https://x.com/0xAsharib) | Short description of the project. |
-| Athenum | ![Athenum](https://www.athenum.xyz/images/og/home-og-argus-v4-best-practices-og.png) | [athenum.xyz](https://athenum.xyz) | [Twitter](https://twitter.com/athenumxyz) | A unified crypto and derivatives analytics terminal aggregating order flow, open interest, and liquidity from 14+ exchanges, with whale-wall market depth, GPU-native market-structure indicators (structure breaks, order blocks, FVGs, liquidity sweeps), and macro intelligence (FRED, FOMC, ETF flows, SEC filings). |
+| Athenum | ![Athenum](https://www.athenum.xyz/images/og/home-og-argus-v4-best-practices-og.png) | [athenum.xyz](https://athenum.xyz) | [Twitter](https://twitter.com/athenumxyz) | A unified crypto and derivatives analytics terminal aggregating order flow, open interest, and liquidity from 14 exchanges, with whale-wall market depth, GPU-native market-structure indicators (structure breaks, order blocks, FVGs, liquidity sweeps), and macro intelligence (FRED, FOMC, ETF flows, SEC filings). |
 <br>
 
 ## Important Note
