@@ -69,6 +69,8 @@
 | Otomato | ![Otomato](images/otomato.png) | [otomato.xyz](https://otomato.xyz/) | [Twitter](https://x.com/otomato_xyz) | Zero-setup, portfolio-aware DeFi assistant that detects your on-chain positions across supported chains and alerts you only when something materially changes your risk, cost, or required action. |
 | Web3 Trackers | ![Web3 Trackers](https://www.web3trackers.com/logo-square.png) | [web3trackers.com](https://www.web3trackers.com/) | [Twitter](https://x.com/web3trackerscom) | On-chain marketing attribution for crypto teams. Tracks which campaigns drive wallet conversions across Ethereum, Base, Solana, and TON. Free tier, no SDK. |
 
+| HolderOS | ![HolderOS](https://holderos.com/brand/logo-icon.png) | [holderos.com](https://holderos.com/) | [holderos.com](https://holderos.com/) | Holder intelligence for token teams — monitors your holder wallets 24/7 on Solana & EVM, scores sell-risk from on-chain behavior, and detects exchange deposits and DEX sells before they hit the chart. |
+
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
 ## Contribution Guidelines
