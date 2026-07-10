@@ -68,6 +68,7 @@
 | Deep Blue Alpha  | No preview available | [deepbluealpha.io](https://deepbluealpha.io)                                            | [Twitter](https://twitter.com/DeepBlueAlpha)        | Real-time Ethereum whale intelligence platform tracking 20,000+ whale wallets with conviction scoring, multi-wallet convergence, and hourly flow reports. Free, no signup. |
 | Otomato | ![Otomato](images/otomato.png) | [otomato.xyz](https://otomato.xyz/) | [Twitter](https://x.com/otomato_xyz) | Zero-setup, portfolio-aware DeFi assistant that detects your on-chain positions across supported chains and alerts you only when something materially changes your risk, cost, or required action. |
 | Web3 Trackers | ![Web3 Trackers](https://www.web3trackers.com/logo-square.png) | [web3trackers.com](https://www.web3trackers.com/) | [Twitter](https://x.com/web3trackerscom) | On-chain marketing attribution for crypto teams. Tracks which campaigns drive wallet conversions across Ethereum, Base, Solana, and TON. Free tier, no SDK. |
+| Alphabit | ![Alphabit](https://alphabitlab.com/opengraph-image) | [alphabitlab.com](https://alphabitlab.com/crypto/risk-model) | [About](https://alphabitlab.com/about) | Free weekly 0-10 Bitcoin risk score combining on-chain valuation, cycle, sentiment, and macro signals, plus a DCA backtest calculator and altcoin season index. |
 
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
