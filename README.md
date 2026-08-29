@@ -72,6 +72,7 @@
 | Alphabit | ![Alphabit](https://alphabitlab.com/opengraph-image) | [alphabitlab.com](https://alphabitlab.com/crypto/risk-model) | [X](https://x.com/AlphabitLab) | Free weekly 0-10 Bitcoin risk score combining on-chain valuation, cycle, sentiment, and macro signals, plus a DCA backtest calculator and altcoin season index. |
 | HolderOS | ![HolderOS](https://holderos.com/brand/logo-icon.png) | [holderos.com](https://holderos.com/) | [x](https://holderos.com/) | Holder intelligence for token teams — monitors your holder wallets 24/7 on Solana & EVM, scores sell-risk from on-chain behavior, and detects exchange deposits and DEX sells before they hit the chart. |
 
+| RektCalc | No preview available | [rektcalc.com](https://rektcalc.com/) | [GitHub](https://github.com/rektcalc) | Free crypto risk calculators — liquidation price, position sizing, DCA planning, and funding rate costs, calculated instantly in your browser. No signup, no wallet connect, nothing leaves your device. |
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
 ## Contribution Guidelines
