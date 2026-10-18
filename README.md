@@ -71,6 +71,7 @@
 | Maketo | ![Maketo](https://maketo.com/img/maketo-cover-square.png) | [maketo.com](https://maketo.com/) | [X](https://x.com/maketobot) | Free Bitcoin dashboard covering cycle, valuation, holder behavior, network health, ETF flows, Bitcoin news, composite gauges, and a Fear & Greed index, all explained in plain English. |
 | Alphabit | ![Alphabit](https://alphabitlab.com/opengraph-image) | [alphabitlab.com](https://alphabitlab.com/crypto/risk-model) | [X](https://x.com/AlphabitLab) | Free weekly 0-10 Bitcoin risk score combining on-chain valuation, cycle, sentiment, and macro signals, plus a DCA backtest calculator and altcoin season index. |
 | HolderOS | ![HolderOS](https://holderos.com/brand/logo-icon.png) | [holderos.com](https://holderos.com/) | [x](https://holderos.com/) | Holder intelligence for token teams — monitors your holder wallets 24/7 on Solana & EVM, scores sell-risk from on-chain behavior, and detects exchange deposits and DEX sells before they hit the chart. |
+| ZEC View | No preview available | [zecview.com](https://zecview.com/) | Not provided | Zcash educational references, dated source-based network observations, and browser calculators; not an independently validating node or investment advice. |
 
 <!-- === ⭐RESEARCH TOOLS END ⭐ === -->
 
