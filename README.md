@@ -81,6 +81,7 @@ If you want to add your product, service, or research tool related to crypto and
 **Current Style Example:**
 
 | Project Name       | Feature image | [project-url.com](https://asharib.xyz/) | [Social Handle](https://x.com/0xAsharib) | Short description of the project. |
+| DefiLPKit | ![DefiLPKit](https://defilpkit.com/opengraph-image) | [defilpkit.com](https://defilpkit.com/) | [Twitter](https://x.com/SudoAIx) | Free, read-only liquidity pool calculator: check fee APR and estimated net yield after impermanent loss and gas, and test a price range (Uniswap v3, PancakeSwap v3, Aerodrome, Raydium CLMM). |
 <br>
 
 ## Important Note
